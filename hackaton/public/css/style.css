@@ -1,0 +1,23 @@
+.login-page-wrapper{
+	min-height: 60vh;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.logo{
+	widows: 200px;
+}
+.white-link{
+	color: #fff!important;
+	text-decoration: none!important;
+}
+.navbar .dropdown-menu {
+	right: 0;
+	left: auto;
+}
+.md-form label{
+	position: static!important;
+}
